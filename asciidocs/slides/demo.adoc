@@ -28,17 +28,23 @@ ifndef::env-ide[]
 :imagesdir: images
 endif::[]
 //:revealjs_theme: sky
-:title-slide-background-image: Relaxoon_Logo_Black.jpg
+//:title-slide-background-image: Relaxoon_Logo_Black.jpg
 
-[.lightbg,background-opacity="0.7"]
+[.lightbg,background-opacity="0.7",background-image=stress.jpg]
 == Situation
 
-image::img.png[background, size="contain"]
+* Unsere Welt wird immer schneller und viele Menschen leiden darunter
+* Gesundheit ist ein wichtiger Faktor
+* Oft fehlt die Möglichkeit sich zu entspannen
 
+[.lightbg,background-opacity="0.7,background-image=solution.jpg"]
 == Lösung
 
+* Handy-App zur Stressbewältigung
+
+[.lightbg,background-opacity="0.7"]
 == System Architektur
-image:system-architektur.png[]
+image::system-architektur.png[architektur]
 
 == Live Demo
 
