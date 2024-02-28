@@ -47,7 +47,7 @@ endif::[]
 
 [.lightbg,background-opacity="0.7"]
 == System Architektur
-image::system-architektur.png[architektur]
+image::system-architektur.png[architektur, 90%]
 
 == Live Demo
 
